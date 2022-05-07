@@ -18,5 +18,11 @@ public class JavaVariables {
 
 	//También se puede declarar e inicializar directamente (como los primeros ejemplos)
 	int n2 = 10; 
+	
+	//**********VARIABLES FINALES***********
+	//Agregando la palabra "final" antes del tipo de variable
+	
+	final String palabra = "Eterno";//Esta variable no puede cambiar de valores
+	//Si escribieramos : palabra = "cambio"; provocaría un error
     }
 }
