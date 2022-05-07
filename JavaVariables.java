@@ -24,5 +24,15 @@ public class JavaVariables {
 	
 	final String palabra = "Eterno";//Esta variable no puede cambiar de valores
 	//Si escribieramos : palabra = "cambio"; provocaría un error
+	
+	
+	//Imprimir variables
+	//El método println() se usa a menudo para mostrar variables. Para combinar texto y una variable, use el carácter +:
+	
+	String nombre = "Enrique";
+	String apellido = "Gutierrez";
+	String nombreCompleto = nombre + " " + apellido;
+
+	System.out.println("Nombre y apellido: " + nombreCompleto);
     }
 }
