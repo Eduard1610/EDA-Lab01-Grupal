@@ -34,5 +34,15 @@ public class JavaVariables {
 	String nombreCompleto = nombre + " " + apellido;
 
 	System.out.println("Nombre y apellido: " + nombreCompleto);
+
+	//Para declarar e inicializar muchas variables podemos usar una lista separada por comillas
+	
+	int a = 15, b = 20, c = 30;
+
+	//También se puede asignar el mismo valor a múltiples variables en una línea
+	int v1, v2, v3;
+	v1 = v2 = v3 = 60;
+	System.out.println("v1: " + v1 + "\nv2: " + v2 + "\nv3: " + v3);
+
     }
 }
