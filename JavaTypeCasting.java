@@ -12,5 +12,14 @@ public class JavaTypeCasting {
 
 	System.out.println("Valor del cajoncito pequeño (ocupa menos espacio): " + cajonChico);
 	System.out.println("Valor del cajon grande (ocupa más espacio): " + cajonGrande);
+
+
+	//Narrowing Casting - (manualmente) : Convierte un tipo de dato a otro indicándolo entre paréntesis
+	
+	double valorDecimal = 16.15;
+	int valorEntero = (int) valorDecimal; // Casting manual: double a int
+
+	System.out.println(valorDecimal);     // Salida 16.15
+	System.out.println(valorEntero);      // Salida 16
     }
 }
