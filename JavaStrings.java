@@ -17,5 +17,10 @@ public class JavaStrings {
 	System.out.println("Mayúscula: " + nombreUniMayus);
 	System.out.println("Minúscula: " + nombreUniMinus);
 
+	//indexOf (devuelve el índice de la primera aparición de un texto específico en una cadena incluyendo espacios en blanco)
+	
+	String cancion = "No tengo trono ni reina, ni nadie que me comprenda, pero sigo siendo el rey";
+	System.out.println("La posición de reina es : " + cancion.indexOf("reina"));
+	System.out.println("La posición de rey es : " + cancion.indexOf("rey"));
     }
 }
