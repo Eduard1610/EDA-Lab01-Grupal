@@ -13,6 +13,11 @@ public class JavaForLoop {
     for (int i = 0; i <= 10; i += 2) {
       System.out.println(i);
     }
-    
+
+    //BUCLE FOR-EACH: Se usa cuando se esta trabajando con Arreglos (Arrays)
+    String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+    for (String i : cars) { //extrae cada elemento del array y lo asigna a la variable i
+      System.out.println(i);//imprime el valor(cadena) de la variable i
+    }
   }
 }
