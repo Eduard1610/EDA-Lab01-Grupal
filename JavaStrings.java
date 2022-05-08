@@ -30,9 +30,15 @@ public class JavaStrings {
 	String name2 = "Programación ";
 	String name3 = "Web";
 	String completo = name1 + name2 + name3;
-	System.out.println("->" + completo);
+	System.out.println("-> " + completo);
 
-	
+	//Concatenación String + int (El resultado es una concatenación de cadenas)
+	String n1 = "W";
+	int n2 = 3;
+	String n3 = "School";
+	String union = n1 + n2 + n3;
+	System.out.println("-> " + union);
+
 
     }
 }
