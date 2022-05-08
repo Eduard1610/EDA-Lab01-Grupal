@@ -27,5 +27,20 @@ public class JavaSwitch {
         System.out.println("Domingo");
         break;
     }
+
+    /*KEYWORD - BREAK : Permite la salida del switch luego de que se logro el match
+    y el bloque de codigo correspondiente se haya ejecutado.*/
+    //KEYWORD - DEFAULT: Ejecuta un bloque de codigo en caso de no existir match
+    day = 1;
+    switch (day) {
+      case 6:
+        System.out.println("Hoy es Sabado, vamos a divertirnos");
+        break;
+      case 7:
+        System.out.println("Hoy es Domingo, a descansar");
+        break;
+      default:
+        System.out.println("Que flojera ir a trabajar");
+    }
   }
 }
