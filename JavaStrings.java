@@ -22,5 +22,17 @@ public class JavaStrings {
 	String cancion = "No tengo trono ni reina, ni nadie que me comprenda, pero sigo siendo el rey";
 	System.out.println("La posición de reina es : " + cancion.indexOf("reina"));
 	System.out.println("La posición de rey es : " + cancion.indexOf("rey"));
+
+	//Concatenación de Strings 
+	//El operador + se puede usar entre cadenas para combinarlas.
+	
+	String name1 = "Laboratorio de ";
+	String name2 = "Programación ";
+	String name3 = "Web";
+	String completo = name1 + name2 + name3;
+	System.out.println("->" + completo);
+
+	
+
     }
 }
