@@ -14,5 +14,12 @@ public class JavaMath {
 	int d = 8;
 	int menor = Math.min(c,d);
 	System.out.println("El menor entre " + c + " y " + d + " es: " + menor);
+
+	System.out.println();
+
+	//Math.abs - Devuelve el valor absoluto (positivo) de la variable
+	double numNegativo = -15.3;
+	System.out.println("Valor original: " + numNegativo);
+	System.out.println("Usando Math.abs: " + Math.abs(numNegativo));
     }
 }
