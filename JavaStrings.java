@@ -39,6 +39,20 @@ public class JavaStrings {
 	String union = n1 + n2 + n3;
 	System.out.println("-> " + union);
 
+	//Caracteres especiales
+	//Si quisiéramos imprimir comillas dentro de un println de la siguiente manera: print("Lo llaman "El Jefe" por fuerte")
+	//Ocasionaríamos un error por lo que se usa la barra invertida (\) para convertir las comillas en caracteres normales.
+
+	System.out.println("Lo llaman \"El Jefe\" por fuerte");
+	
+	//Esto también aplica para ( ' , \ )
+	System.out.println("Comilla simple: \'");
+	System.out.println("Barra invertida: \\");
+
+	//Adicionalmente existen otras combinaciones usadas como:
+    
+	System.out.println("Genera un salto de->\\n \nlínea");// \n
+	System.out.println("Genera un tab->\\t \tlínea");// \t
 
     }
 }
