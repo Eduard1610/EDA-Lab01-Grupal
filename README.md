@@ -39,7 +39,7 @@
 </tr>
 <tr><td colspan="6">INTEGRANTES:
     <ul>
-       <li>Integrante 1</li>
+       <li>Eduardo Franshua Durand Obando.</li>
        <li>Integrante 2</li>
        <li>Integrante 3</li>
        <li>Integrante 4</li>
@@ -65,8 +65,8 @@
     #
 
     - LINK DE REPOSITORIOS INDIVIDUALES:
-    
-        - Integrante 1: 
+
+        - Eduardo Franshua Durand Obando: https://github.com/Eduard1610/EDA-Lab01
         - Integrante 2: 
         - Integrante 3: 
         - Integrante 4: 
@@ -81,8 +81,8 @@
     #
     CAPTURAS DE LOS COMMITS POR INTEGRANTE:
         
-        - Integrante 1:
-    <img src = "Img/CommitsNombreIntegrante.png">
+        - Eduardo Franshua Durand Obando:
+    <img src = "Img/CommitsEduardo.png">
 
         - Integrante 2:
     <img src = "Img/CommitsNombreIntegrante.png">
