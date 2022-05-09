@@ -96,12 +96,13 @@
 
 ## CUESTIONARIO
 - ¿Por qué Git y GitHub son herramientas importantes para el curso?
-    - RESPUESTA
+    - Porque nos permite trabajar en equipo y coordinar nuestro trabajo de una forma organizada, además de brindarnos la seguridad de guardado de versiones anteriores.
 - ¿Qué conductas éticas deberían promocionarse cuando se usa un Sistema de Control de Versiones?
-    - RESPUESTA
-- ¿Qué son los entándares de codificación?
-    - RESPUESTA
-
+    - La comunicación entre cada uno de sus integrantes.
+    - El respeto de ideas de cada uno de los integrantes.
+    - Que solo un integrante se encargue de la rama main. (para evitar conflictos)
+- ¿Qué son los estándares de codificación?
+    - Son convenciones que se aplican al momento de programar para conseguir un orden y legibilidad de código, siguiendo una pauta ya establecida.
 #
 
 ## REFERENCIAS
