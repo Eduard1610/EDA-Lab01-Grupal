@@ -65,7 +65,7 @@
     #
 
     - LINK DE REPOSITORIOS INDIVIDUALES:
-    
+
         - Eduardo Franshua Durand Obando: https://github.com/Eduard1610/EDA-Lab01
         - Integrante 2: 
         - Integrante 3: 
