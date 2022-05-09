@@ -40,7 +40,7 @@
 <tr><td colspan="6">INTEGRANTES:
     <ul>
        <li>Eduardo Franshua Durand Obando.</li>
-       <li>Integrante 2</li>
+       <li>Kevin J. Alvarez Astete</li>
        <li>Integrante 3</li>
        <li>Integrante 4</li>
     </ul>
@@ -67,9 +67,9 @@
     - LINK DE REPOSITORIOS INDIVIDUALES:
 
         - Eduardo Franshua Durand Obando: https://github.com/Eduard1610/EDA-Lab01
-        - Integrante 2: 
-        - Integrante 3: 
-        - Integrante 4: 
+        - Kevin J. Alvarez Astete: https://github.com/kalvarez21/Proyecto_EDA_GrupoD
+        - Integrante 3:
+        - Integrante 4:
 
     #
 - Cree un proyecto grupal para trabajo colaborativo (de 3 a 5 integrantes).
@@ -80,12 +80,12 @@
 
     #
     CAPTURAS DE LOS COMMITS POR INTEGRANTE:
-        
+
         - Eduardo Franshua Durand Obando:
     <img src = "Img/CommitsEduardo.png">
 
-        - Integrante 2:
-    <img src = "Img/CommitsNombreIntegrante.png">
+        - Kevin J. Alvarez Astete
+    <img src = "https://i.ibb.co/ZcThZ4z/commits-Kalvarez.png">
 
         - Integrante 1:
     <img src = "Img/CommitsNombreIntegrante.png">
