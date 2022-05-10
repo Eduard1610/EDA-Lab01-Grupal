@@ -41,7 +41,7 @@
     <ul>
        <li>Eduardo Franshua Durand Obando.</li>
        <li>Kevin J. Alvarez Astete</li>
-       <li>Integrante 3</li>
+       <li>Marco Edmundo E. Centeno Quispe</li>
        <li>Integrante 4</li>
     </ul>
 </td>
@@ -68,7 +68,7 @@
 
         - Eduardo Franshua Durand Obando: https://github.com/Eduard1610/EDA-Lab01
         - Kevin J. Alvarez Astete: https://github.com/kalvarez21/Proyecto_EDA_GrupoD
-        - Integrante 3:
+        - Marco Edmundo E. Centeno Quispe: https://github.com/Eduard1610/EDA-Lab01-Grupal/tree/M-UNSA
         - Integrante 4:
 
     #
