@@ -42,7 +42,7 @@
        <li>Eduardo Franshua Durand Obando.</li>
        <li>Kevin J. Alvarez Astete</li>
        <li>Marco Edmundo E. Centeno Quispe</li>
-       <li>Integrante 4</li>
+       <li>Henry Isaias Galvez Quilla</li>
     </ul>
 </td>
 </<tr>
@@ -69,7 +69,7 @@
         - Eduardo Franshua Durand Obando: https://github.com/Eduard1610/EDA-Lab01
         - Kevin J. Alvarez Astete: https://github.com/kalvarez21/Proyecto_EDA_GrupoD
         - Marco Edmundo E. Centeno Quispe: https://github.com/Eduard1610/EDA-Lab01-Grupal/tree/M-UNSA
-        - Integrante 4:
+        - Henry Isaias Galvez Quilla: https://github.com/HenryGalvezQ/EDA-lab01
 
     #
 - Cree un proyecto grupal para trabajo colaborativo (de 3 a 5 integrantes).
@@ -90,8 +90,8 @@
         - Marco Edmundo E. Centeno Quispe:
     <img src = "Img/Screen-2022-05-09-19-27-44.png">
 
-        - Integrante 1:
-    <img src = "Img/CommitsNombreIntegrante.png">
+        - Henry Isaias Galvez Quilla:
+    <img src = "Img/CommitsHenry.jpg">
 #
 
 ## CUESTIONARIO
