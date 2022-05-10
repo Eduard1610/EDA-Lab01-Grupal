@@ -16,6 +16,9 @@ public class JavaMethodsParameters {
       metodoSaludo("Edmundo");          //El output será un saludo personalizado con nuestros nombres
 
       metodoEjemplo("Luis", 15,'m');
+      int[]notas={14,15,16};
+      String situacion = formulario("Pepe",notas);
+      System.out.println(situacion);
     }
 
     //Se puede llamar a varios párametros a la vez
@@ -35,4 +38,18 @@ public class JavaMethodsParameters {
         System.out.println(num2);
     }
     
+
+    //Se pueden usar condicionales y bucles dentro de un metodo
+    static String formulario(String name, int[]notas){
+        String libreta="";
+        for(int i=0; i<notas.length; i++){
+            if(notas[i]<10.5){
+                libreta="Nombre: "+name+" Situación: desaprobado";
+            }
+            else {
+                libreta="Nombre: "+name+" Situación: aprobado";
+            }
+        }
+        return libreta;
+    }
   }
