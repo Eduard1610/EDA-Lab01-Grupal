@@ -87,8 +87,8 @@
         - Kevin J. Alvarez Astete
     <img src = "https://i.ibb.co/ZcThZ4z/commits-Kalvarez.png">
 
-        - Integrante 1:
-    <img src = "Img/CommitsNombreIntegrante.png">
+        - Marco Edmundo E. Centeno Quispe:
+    <img src = "Img/Screen-2022-05-09-19-27-44.png">
 
         - Integrante 1:
     <img src = "Img/CommitsNombreIntegrante.png">
