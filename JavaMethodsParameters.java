@@ -13,6 +13,26 @@ public class JavaMethodsParameters {
       metodoSaludo("Henry");            //Al momento de invocar al método coloco la variable del tipo de dato pedida
       metodoSaludo("Eduardo");          //Lo que se conoce como argumentos
       metodoSaludo("Kevin");
-      metodoSaludo("Edmundo");                             //El output será un saludo personalizado con nuestros nombres
+      metodoSaludo("Edmundo");          //El output será un saludo personalizado con nuestros nombres
+
+      metodoEjemplo("Luis", 15,'m');
     }
+
+    //Se puede llamar a varios párametros a la vez
+    static void metodoEjemplo(String name, int age, char gender){
+        System.out.println("Nombre: "+name+"\nEdad: "+age+"\nGénero: "+gender);
+    }
+
+    //Se puede elegir el tipo de retorno del método con un tipo de dato
+    static double division(int a, int b){
+    double num=a/b;
+    return num;
+    }
+
+    //O solo usar void si se quiere sin retorno
+    static void division2(int a, int b){
+        double num2=a/b;
+        System.out.println(num2);
+    }
+    
   }
